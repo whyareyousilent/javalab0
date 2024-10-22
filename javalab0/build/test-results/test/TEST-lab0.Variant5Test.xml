@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab0.Variant5Test" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-10-22T16:36:40" hostname="ACERNITRO5" time="0.029">
+  <properties/>
+  <testcase name="testArrayFormation" classname="lab0.Variant5Test" time="0.006"/>
+  <testcase name="testCandyCost" classname="lab0.Variant5Test" time="0.001"/>
+  <testcase name="testDoubleFactorial" classname="lab0.Variant5Test" time="0.0"/>
+  <testcase name="testDoubleInequality" classname="lab0.Variant5Test" time="0.001"/>
+  <testcase name="testLargerNumber" classname="lab0.Variant5Test" time="0.0"/>
+  <testcase name="testLengthInMeters" classname="lab0.Variant5Test" time="0.001"/>
+  <testcase name="testMatrixFormation" classname="lab0.Variant5Test" time="0.006"/>
+  <testcase name="testTwoDigitNumber" classname="lab0.Variant5Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
